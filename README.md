@@ -49,6 +49,7 @@ Building the max-heap takes Θ(n)
 Extracting all elements takes Θ(n log n)
 Chart 1: Time vs n
 <img width="603" height="360" alt="EXCEL_PHopx4QSXN" src="https://github.com/user-attachments/assets/c51c8c33-6012-4503-b761-79d29573144d" />
+
 Execution time (ms) vs input size (n) for different data distributions.
 Key Observations:
 All curves follow approximately nlogn growth.
