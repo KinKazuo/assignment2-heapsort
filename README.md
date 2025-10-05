@@ -44,7 +44,7 @@ There is no early termination possible because:
 Building the max-heap takes Θ(n)
 Extracting all elements takes Θ(n log n)
 Chart 1: Time vs n!
-<img width="596" height="355" alt="EXCEL_tyP3PYRcFH" src="https://github.com/user-attachments/assets/39b3b654-6b12-47a5-af79-287b481e989e" />
+<img width="603" height="360" alt="EXCEL_PHopx4QSXN" src="https://github.com/user-attachments/assets/5defcc10-57d6-412f-9e3d-f7f4bf822ab2" />
 
 Execution time (ms) vs input size (n) for different data distributions.
 profile
