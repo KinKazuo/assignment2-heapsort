@@ -71,7 +71,6 @@ Usage
 
 1
 mvn clean package
-⚠️ Make sure your pom.xml includes the maven-shade-plugin or maven-assembly-plugin to create an executable JAR. If not, use:
 
 bash
 
