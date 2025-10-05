@@ -79,6 +79,7 @@ Edge cases (empty, single-element, duplicates) were handled correctly, ensuring 
 This work demonstrates how theoretical guarantees can be validated empirically — a critical skill in algorithm engineering.
 
 The implementation provides detailed performance tracking, enabling transparent analysis and peer review.
+
 Author
 Abilkhaiyr Sarsenbay
 SE-2436
