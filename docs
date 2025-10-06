@@ -1,6 +1,6 @@
 Peer Code Review: Analysis of Test Suite
 Algorithm: Shell Sort (Yevgeniy Averyanov)
-Reviewer: KinKazuo SE-2436
+Reviewer: Abilkhaiyr Sarsenbay SE-2436
 Section: Code Review – Testing Quality
 
 ✅ Strengths of the Test Implementation
@@ -66,4 +66,5 @@ for (int n : new int[]{100, 1000, 10000}) {
 Uses older JUnit 4 (import org.junit.Test;) instead of JUnit 5.
 While functional, adopting modern testing frameworks improves extensibility (e.g., @ParameterizedTest, better assertions).
 Suggestion: Upgrade to JUnit 5 for future projects.
+
 
