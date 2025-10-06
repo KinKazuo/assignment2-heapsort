@@ -1,5 +1,5 @@
 Assignment 2 - Heap Sort
-Author: KinKazuo SE-2436
+Author: Abilkhaiyr Sarsenbay SE-2436
 Partner: Yevgeniy Averyanov (Shell Sort)
 Pair: 2 — Advanced Sorting Algorithms
 Usage
